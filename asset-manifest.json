@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/smarthackers/static/css/main.1b9af766.css",
+    "main.js": "/smarthackers/static/js/main.eea2d62d.js",
+    "static/js/787.21f9f1ec.chunk.js": "/smarthackers/static/js/787.21f9f1ec.chunk.js",
+    "static/media/icomoon.svg?lr7l3u": "/smarthackers/static/media/icomoon.9760c93888f3335d241b.svg",
+    "static/media/icomoon.eot?lr7l3u": "/smarthackers/static/media/icomoon.c3523c057b80ec2790a8.eot",
+    "static/media/icomoon.woff?lr7l3u": "/smarthackers/static/media/icomoon.e4caaa182db812391411.woff",
+    "static/media/icomoon.ttf?lr7l3u": "/smarthackers/static/media/icomoon.e344f1e6d240ad74695e.ttf",
+    "index.html": "/smarthackers/index.html",
+    "main.1b9af766.css.map": "/smarthackers/static/css/main.1b9af766.css.map",
+    "main.eea2d62d.js.map": "/smarthackers/static/js/main.eea2d62d.js.map",
+    "787.21f9f1ec.chunk.js.map": "/smarthackers/static/js/787.21f9f1ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b9af766.css",
+    "static/js/main.eea2d62d.js"
+  ]
+}
